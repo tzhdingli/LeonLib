@@ -1,0 +1,17 @@
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\bin\Debug\OMLib.Analytics.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\bin\Debug\OMLib.Bootstrapping.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\bin\Debug\OMLib.Data.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\bin\Debug\OMLib.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\bin\Debug\OMLib.Pricing.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\bin\Debug\OMLib.Tools.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\bin\Debug\QLNet.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\obj\Debug\LeonLib.csprojResolveAssemblyReference.cache
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\bin\Debug\MathNet.Numerics.dll
+C:\Users\LeonDing\Source\Workspaces\OTC\CDSPro\ClassLibrary1\bin\Debug\MathNet.Numerics.xml
